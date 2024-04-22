@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "113940631699",
+    "project_id": "medibox-a8b2f",
+    "storage_bucket": "medibox-a8b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113940631699:android:1076c778db3029a3d4fd66",
+        "android_client_info": {
+          "package_name": "com.example.medimate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4h5ZVlgxN8K-7Rch3mMUd3XHEKGgShUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
